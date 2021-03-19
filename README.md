@@ -6,4 +6,4 @@ Hello, my name is Miqueias Cabral, I'm Brazilian 🇧🇷, and I'm just curious 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Miqueias%20Cabral-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miqueiascabral1/)](https://www.linkedin.com/in/miqueiascabral1/) 
 [![Gmail Badge](https://img.shields.io/badge/-cabralmiqueias@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cabralmiqueias@gmail.com)](mailto:cabralmiqueias@gmail.com)
-![Instagram Badge](https://img.shields.io/badge/-Miqueias%20Cabral-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/devmiqueiascabral1/)]
+![Instagram Badge](https://img.shields.io/badge/-Miqueias%20Cabral-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/devmiqueiascabral1/)
